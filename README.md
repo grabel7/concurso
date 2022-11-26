@@ -1,4 +1,7 @@
 # Informações
 Treino para concursos em Python, com dez questões aleatórias de um banco com 20 questões pegas de concursos reais.
 
-É meu primeiro projeto. Caso tenha interesse em alterar as questões, apenas altere o valor da variável p(x) e de sua respectiva resposta r(x). 
+Desenvolvi este código com o propósito de preparar pessoas para concursos públicos, mais precisamente em áreas sociais. Porém, é possível moldar o código do seu jeito e mudar as questões, caso seja do seu gosto.
+
+# Alterando as perguntas
+Cada pergunta se trata de duas variáveis, sendo elas respectivamente p(x) e r(x), você pode manipular esses valores da forma que quiser que não trará problema algum ao código, mas lembre-se de manter sempre as respostas corretas para suas perguntas.
