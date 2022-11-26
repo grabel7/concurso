@@ -5,3 +5,6 @@ Desenvolvi este código com o propósito de preparar pessoas para concursos púb
 
 # Alterando as perguntas
 Cada pergunta se trata de duas variáveis, sendo elas respectivamente p(x) e r(x), você pode manipular esses valores da forma que quiser que não trará problema algum ao código, mas lembre-se de manter sempre as respostas corretas para suas perguntas.
+
+# Necessário
+É necessária a instalação do código [Python em sua máquina.](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
