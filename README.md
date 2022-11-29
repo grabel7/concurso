@@ -10,4 +10,4 @@ Cada pergunta se trata de duas variáveis, sendo elas respectivamente p(x) e r(x
 É necessária a instalação do código [Python em sua máquina.](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
 
 # Download 
-[Clique aqui para baixar.](https://github.com/grabel7/concurso/releases/tag/Python)
+[Clique aqui para baixar.](https://github.com/grabel7/concurso/releases/tag/BugFix)
